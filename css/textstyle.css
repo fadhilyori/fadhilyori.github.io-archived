@@ -1,0 +1,8 @@
+.text-bold {
+    font-weight: bold !important;
+}
+
+.fonts-firacode {
+    font-family: "Fira Code Retina", "Ubuntu M", "sans-serif" !important;
+    font-variant-ligatures: common-ligatures !important;
+}

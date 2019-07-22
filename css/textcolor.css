@@ -1,0 +1,27 @@
+.text-red {
+    color: red !important;
+}
+
+.text-red-dark {
+    color: darkred !important;
+}
+
+.text-green {
+    color: green !important;
+}
+
+.text-blue {
+    color: blue !important;
+}
+
+.text-blue-dark {
+    color: darkblue !important;
+}
+
+.text-blue-light {
+    color: lightblue !important;
+}
+
+.text-gray {
+    color: gray !important;
+}
